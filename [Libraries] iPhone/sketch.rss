@@ -9,8 +9,8 @@
         <title>Monzo iPhone</title>
         <sparkle:minimumSystemVersion>54</sparkle:minimumSystemVersion>
         <sparkle:maximumSystemVersion>55</sparkle:maximumSystemVersion>
-        <pubDate>Mon, 16 Jul 2019 10:55:00 +0000</pubDate>
-        <enclosure url="https://github.com/monzo/Design-Libraries/blob/master/%5BLibraries%5D%20iPhone/%5BLibraries%5D%20iPhone.sketch?raw=true" sparkle:version="1.0.3" type="application/octet-stream" />
+        <pubDate>Tue, 16 Jul 2019 16:13:00 +0000</pubDate>
+        <enclosure url="https://github.com/monzo/Design-Libraries/blob/master/%5BLibraries%5D%20iPhone/%5BLibraries%5D%20iPhone.sketch?raw=true" sparkle:version="1.0.4" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
