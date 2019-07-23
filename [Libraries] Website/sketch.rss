@@ -9,8 +9,8 @@
         <title>Monzo Web</title>
         <sparkle:minimumSystemVersion>54</sparkle:minimumSystemVersion>
         <sparkle:maximumSystemVersion>55</sparkle:maximumSystemVersion>
-        <pubDate>Tue, 16 Jul 2019 10:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/monzo/Design-Libraries/blob/master/%5BLibraries%5D%20Website/%5BLibraries%5D%20Website.sketch?raw=true" sparkle:version="2" type="application/octet-stream" />
+        <pubDate>Tue, 22 Jul 2019 17:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/monzo/Design-Libraries/blob/master/%5BLibraries%5D%20Website/%5BLibraries%5D%20Website.sketch?raw=true" sparkle:version="3" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
