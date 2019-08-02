@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Monzo iPhone</title>
+    <title>(Archived) Monzo iPhone</title>
     <link>http://sketchlibrary.sketchapp.com/libraries/SketchLibraryAppcast.xml</link>
-    <description>Monzo iPhone Sketch library</description>
+    <description>(Archived) Monzo iPhone Sketch Library</description>
     <language>en</language>
       <item>
-        <title>Monzo iPhone</title>
+        <title>(Archived) Monzo iPhone</title>
         <sparkle:minimumSystemVersion>54</sparkle:minimumSystemVersion>
         <sparkle:maximumSystemVersion>55</sparkle:maximumSystemVersion>
         <pubDate>Tue, 16 Jul 2019 16:13:00 +0000</pubDate>
-        <enclosure url="https://github.com/monzo/Design-Libraries/blob/master/%5BLibraries%5D%20iPhone/%5BLibraries%5D%20iPhone.sketch?raw=true" sparkle:version="1.0.5" type="application/octet-stream" />
+        <enclosure url="https://github.com/monzo/Design-Libraries/blob/master/%5BLibraries%5D%20iPhone/%5BLibraries%5D%20iPhone.sketch?raw=true" sparkle:version="2.0.0" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
