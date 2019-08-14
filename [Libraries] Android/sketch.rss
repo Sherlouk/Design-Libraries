@@ -10,7 +10,7 @@
         <sparkle:minimumSystemVersion>54</sparkle:minimumSystemVersion>
         <sparkle:maximumSystemVersion>55</sparkle:maximumSystemVersion>
         <pubDate>Tue, 30 Jul 2019 15:30:00 +0000</pubDate>
-        <enclosure url="https://github.com/monzo/Design-Libraries/raw/master/%5BLibraries%5D%20Android/%5BLibraries%5D%20Android.sketch" sparkle:version="1.5.4" type="application/octet-stream" />
+        <enclosure url="https://github.com/monzo/Design-Libraries/raw/master/%5BLibraries%5D%20Android/%5BLibraries%5D%20Android.sketch" sparkle:version="1.5.5" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
